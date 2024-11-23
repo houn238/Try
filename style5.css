@@ -1,0 +1,51 @@
+div{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: 200;
+  
+    
+}
+ fieldset{
+ border-radius: 10px;
+ border-color: aqua;
+ background-color: white;
+ padding: 30px;
+width: 8px;
+display: flex;
+flex-direction: column;
+ }
+ select{
+    text-align: center;
+    border-radius: 6px ;
+    padding: 10PX;
+    margin: 2px;
+ }
+ input{
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 6px ;
+    padding: 10PX;
+    margin: 2px;
+ }
+ label{
+    margin: 5px;
+ }
+   
+H1{
+    text-align: center;
+     
+     color:rgb(13, 14, 10);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+  body{
+    display: flex;
+    background-color: aqua;
+    align-items: center;
+    min-height: 100vh;
+    justify-content: center;
+  }
+  #sou{
+    background-color: rgb(17, 212, 17);
+  }

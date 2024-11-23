@@ -1,0 +1,29 @@
+body{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: larger;
+  }
+  
+  p{
+    text-align: justify;
+    text-decoration: double;
+  }
+  .center{
+    background-color: aqua;
+    border-radius: 6px;
+    border-top: 5px;
+    
+  }
+  
+  .line{
+    text-decoration: underline;
+    margin: 2px;
+    font-weight: bolder;
+    padding: 0cap 0 0 0;
+  
+  }
+  b{
+    text-align: center;
+  }
+  
